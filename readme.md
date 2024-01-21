@@ -1,4 +1,3 @@
-start using "npx nodemon"
 # Pinterest Clone
 
 ## Description
@@ -35,7 +34,8 @@ Make sure you have the following installed before running the application:
    npx nodemon
 
 <hr>
-Usage
-Open your web browser and navigate to http://localhost:3000.
-Register a new account or log in if you already have one.
-Create pins, check your feed, and set a profile image.
+
+## Usage
+Open your web browser and navigate to http://localhost:3000. <br>
+Register a new account or log in if you already have one. <br>
+Create pins, check your feed, and set a profile image. <br>
